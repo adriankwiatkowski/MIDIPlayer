@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MIDI Player:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MIDI_Player_jar</output-path>
+    <root id="archive" name="MIDI Player.jar">
+      <element id="module-output" name="MIDI Player" />
+    </root>
+  </artifact>
+</component>
